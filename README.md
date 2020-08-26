@@ -1,26 +1,16 @@
 # Project Title
 
-Machine Learning AI
+Machine Learning AI- learns what color text should be on a certain background
 
 # Project Description
 
-Machine Learning AI
-
-
-## Getting Started
+Machine Learning AI - This simple example shows how to use a neaural network ,taking some training data and training it even more to learn what color whould look best on which background
 
 
 ### Prerequisites
-
-
-### Installing
-
-
-## Debuging
-
-
-## Running the tests
-
+```
+ live server is require to run this as its modular js
+```
 
 ## Built With
 * [brain.js](https://brain.js.org) - brain.js naural network framework
