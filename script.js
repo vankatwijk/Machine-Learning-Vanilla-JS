@@ -1,6 +1,8 @@
-const net = new brain.NeuralNetwork({
-    hiddenLayers:[4, 5,6]
-})
+const net = new brain.NeuralNetwork()
+// adding more hidden layers makes the output better
+// const net = new brain.NeuralNetwork({
+//     hiddenLayers:[4, 5,6]
+// })
 
 //x or operations
 net.train([
@@ -24,3 +26,6 @@ net.train([
 
 const diagram = document.getElementById('diagram')
 diagram.innerHTML = brain.utilities.toSVG(net)
+
+//test if it works with an input
+console.log(net.run([1,0]))
