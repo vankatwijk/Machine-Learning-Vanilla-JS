@@ -23,6 +23,7 @@ Machine Learning AI
 
 
 ## Built With
+* [brain.js](https://brain.js.org) - brain.js naural network framework
 
 ## Authors
 
