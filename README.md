@@ -4,7 +4,7 @@ Machine Learning AI- learns what color text should be on a certain background
 
 # Project Description
 
-Machine Learning AI - This simple example shows how to use a neaural network ,taking some training data and training it even more to learn what color whould look best on which background
+Machine Learning AI - This simple example shows how to use a neural network, taking some training data and training it, even more, to learn what colour text should look best on which background
 
 
 ### Prerequisites
